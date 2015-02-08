@@ -28,12 +28,7 @@
         </div>
         <div class="collapse navbar-collapse" id="navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a href="http://buergerbautstadt.de/begriffe">Begriffe</a></li>
-                <li><a href="http://buergerbautstadt.de/orte">Liste</a></li>
-                <li><a href="http://buergerbautstadt.de/news/abonnieren">Abo</a></li>
-                <li><a href="http://blog.buergerbautstadt.de/about">Über</a></li> 
-                <li><a href="http://blog.buergerbautstadt.de/">Blog</a></li>
-                <li><a href="http://blog.buergerbautstadt.de/impressum/">Impressum</a></li>
+
             </ul>
         </div>
     </nav>
@@ -50,7 +45,12 @@
 
             <div id="header-right">
                 <ul class="sitenav">
-                    <li><a href="/begriffe">Begriffe</a></li><li><a href="/orte">Liste</a></li><li><a href="/news/abonnieren">Abo</a></li><li><a href="http://blog.buergerbautstadt.de/about/">Über</a></li><li><a href="http://blog.buergerbautstadt.de/">Blog</a></li><li><a href="http://blog.buergerbautstadt.de/impressum/">Impressum</a></li>
+                    <li><a href="/begriffe">Begriffe</a></li>
+                    <li><a href="/orte">Liste</a></li>
+                    <li><a href="/news/abonnieren">Abo</a></li>
+                    <li><a href="http://blog.buergerbautstadt.de/about/">Über</a></li>
+                    <li><a href="http://blog.buergerbautstadt.de/">Blog</a></li>
+                    <li><a href="http://blog.buergerbautstadt.de/impressum/">Impressum</a></li>
                     <li>
                         <a href="https://twitter.com/share" target="blank"><i class="fa fa-twitter-square"></i></a>
                         <a href="https://www.facebook.com/dialog/share?href=http%3A%2F%2Fbuergerbautstadt.de&amp;redirect_uri=http%3A%2F%2Fbuergerbautstadt.de&amp;app_id=310881089105382&amp;display=page" target="blank"><i class="fa fa-facebook-square"></i></a>
