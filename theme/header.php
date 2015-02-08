@@ -56,7 +56,7 @@
                         <a href="https://twitter.com/share" target="blank"><i class="fa fa-twitter-square"></i></a>
                         <a href="https://www.facebook.com/dialog/share?href=http%3A%2F%2Fbuergerbautstadt.de&amp;redirect_uri=http%3A%2F%2Fbuergerbautstadt.de&amp;app_id=310881089105382&amp;display=page" target="blank"><i class="fa fa-facebook-square"></i></a>
                         <a href="https://plus.google.com/share?url=http%3A%2F%2Fbuergerbautstadt.de&amp;href=http%3A%2F%2Fbuergerbautstadt.de" target="blank"><i class="fa fa-google-plus-square"></i></a>
-                        <a href="/feeds/">
+                        <a href="http://buergerbautstadt.de/feeds/">
                             <i class="fa fa-rss-square"></i>
                         </a>
                     </li>
