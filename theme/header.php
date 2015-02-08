@@ -8,6 +8,7 @@
     <meta property="og:image" content="http://buergerbautstadt.de/static/img/karte.png"/>
 
     <link rel="shortcut icon" href="http://buergerbautstadt.de/static/img/favicon.png" type="image/x-icon" />
+
     <link rel="stylesheet" href="http://buergerbautstadt.de/static/lib/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="http://buergerbautstadt.de/static/lib/font-awesome/css/font-awesome.min.css" />
     <link rel="stylesheet" href="http://buergerbautstadt.de/static/page.css" />
@@ -54,8 +55,8 @@
                     <li><a href="http://blog.buergerbautstadt.de/impressum/">Impressum</a></li>
                     <li>
                         <a href="https://twitter.com/share" target="blank"><i class="fa fa-twitter-square"></i></a>
-                        <a href="https://www.facebook.com/dialog/share?href=http%3A%2F%2Fbuergerbautstadt.de&amp;redirect_uri=http%3A%2F%2Fbuergerbautstadt.de&amp;app_id=310881089105382&amp;display=page" target="blank"><i class="fa fa-facebook-square"></i></a>
-                        <a href="https://plus.google.com/share?url=http%3A%2F%2Fbuergerbautstadt.de&amp;href=http%3A%2F%2Fbuergerbautstadt.de" target="blank"><i class="fa fa-google-plus-square"></i></a>
+                        <a href="https://www.facebook.com/dialog/share?href=http%3A%2F%2Fbuergerbautstadt.de&redirect_uri=http%3A%2F%2Fbuergerbautstadt.de&app_id=310881089105382&display=page" target="blank"><i class="fa fa-facebook-square"></i></a>
+                        <a href="https://plus.google.com/share?url=http%3A%2F%2Fbuergerbautstadt.de&href=http%3A%2F%2Fbuergerbautstadt.de" target="blank"><i class="fa fa-google-plus-square"></i></a>
                         <a href="http://buergerbautstadt.de/feeds/">
                             <i class="fa fa-rss-square"></i>
                         </a>

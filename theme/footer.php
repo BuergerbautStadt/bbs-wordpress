@@ -1,6 +1,7 @@
 <?php wp_footer(); ?>
 
 <script type="text/javascript" src="http://buergerbautstadt.de/static/lib/jquery.min.js" ></script>
+<script type="text/javascript" src="http://buergerbautstadt.de/static/lib/angular/angular.min.js" ></script>
 <script type="text/javascript" src="http://buergerbautstadt.de/static/lib/bootstrap/js/bootstrap.min.js" ></script>
 
 <!-- Piwik -->
