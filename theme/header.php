@@ -43,7 +43,7 @@
             <div id="header-left">
                 <div id="brand">
                     <a href="http://buergerbautstadt.de/">
-                        <img src="http://buergerbautstadt.de/static/img/schrift_5.png" alt="Bürger baut Stadt">
+                        <img src="http://buergerbautstadt.de/static/img/title.png" alt="Bürger baut Stadt">
                     </a>
                 </div>
             </div>
