@@ -9,6 +9,7 @@
 
     <link rel="shortcut icon" href="http://buergerbautstadt.de/static/img/favicon.png" type="image/x-icon" />
     <link rel="stylesheet" href="http://buergerbautstadt.de/static/lib/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="http://buergerbautstadt.de/static/lib/font-awesome/css/font-awesome.min.css" />
     <link rel="stylesheet" href="http://buergerbautstadt.de/static/page.css" />
     <link rel="stylesheet" href="http://buergerbautstadt.de/static/style.css" />
 </head>
