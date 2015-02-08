@@ -23,7 +23,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="http://buergerbautstadt.de/">
-                <img src="http://buergerbautstadt.de/static/img/schrift_5.png" alt="Bürger baut Stadt">
+                <img src="http://buergerbautstadt.de/static/img/title.png" alt="Bürger baut Stadt">
             </a>
         </div>
         <div class="collapse navbar-collapse" id="navbar-collapse">
